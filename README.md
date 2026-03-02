@@ -4,6 +4,7 @@
 The "Number Guessing Game" is a simple console-based game written in C.  
 The program generates a random number using "rand()" and the player must guess the correct number. 
 
+
 The game uses:
 - Random number generation ("rand()")
 - Loops for continuous guessing
