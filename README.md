@@ -19,6 +19,7 @@ The game uses:
 - Score tracking (number of attempts)
 - Simple and interactive console interface
 
+
 ## How the Game Works
 1. The program generates a random number.
 2. The player enters a guess.
