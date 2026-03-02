@@ -29,6 +29,7 @@ The game uses:
    - If correct → Displays success message
 4. The game shows total attempts as the final score.
 
+
 ## Project Structure
 -"guessing_game.c" → Main C source file
 - (Optional) README.md → Project description file
