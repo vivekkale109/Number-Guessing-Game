@@ -11,6 +11,7 @@ The game uses:
 - Conditional statements to compare guesses
 - Score counter based on number of attempts
 
+
 ## Features
 - Random number generated between 1 and 100
 - Unlimited guessing until correct answer
